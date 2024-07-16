@@ -1,0 +1,23 @@
+# Ignorar archivos compilados y generados por IDEs
+*.class
+*.war
+*.ear
+*.iml
+*.idea/
+*.vscode/
+
+# Ignorar archivos de construcción y dependencias
+target/
+build/
+out/
+bin/
+*.log
+
+# Ignorar archivos de configuración específicos de la máquina
+*.xml
+*.properties
+*.prefs
+
+# Ignorar archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
